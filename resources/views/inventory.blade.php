@@ -83,5 +83,3 @@
         }
     </style>
 @endpush
-
-asdsad
